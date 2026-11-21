@@ -1,0 +1,14 @@
+{
+  "name": "zesia-copilot",
+  "owner": { "name": "Zesia" },
+  "metadata": {
+    "description": "ZESIA Consult for GitHub Copilot"
+  },
+  "plugins": [
+    {
+      "name": "zesia-consult",
+      "version": "0.4.14",
+      "source": "./plugins/zesia-consult"
+    }
+  ]
+}

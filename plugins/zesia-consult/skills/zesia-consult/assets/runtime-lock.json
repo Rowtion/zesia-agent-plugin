@@ -1,0 +1,32 @@
+{
+  "format": "zesia.agent-plugin.runtime.v1",
+  "version": "0.4.14",
+  "sourceSha": "779fa86e44e78afaade1e0f575cddf4f21739e4d",
+  "assets": {
+    "darwin-arm64": {
+      "sha256": "a8fe48be246d2b2edc9eebf7e0a2e640ac524391936ddf3e5165a9bf95c874a0",
+      "bytes": 30143086,
+      "manifestSha256": "189b8c092ee653c7a9be5075c5a8bcbc80cb9f167cc6231925b28f5d5a7171f4"
+    },
+    "darwin-x64": {
+      "sha256": "e45163f8f2ff3274ee7a2956243638a1a9b58d709411a5567a821ba736f2245e",
+      "bytes": 33092720,
+      "manifestSha256": "af2129759bc99f63695d4bf2249a6e937480f5af734bb4354397fa6cd68f7e22"
+    },
+    "linux-arm64": {
+      "sha256": "8c263454e00fe439891ef90005a966e2d168bfecbe41d984317af29a643e8e3b",
+      "bytes": 45591401,
+      "manifestSha256": "5c7e9a6ef87e934e25bbe3b99c8dca7c778f9aea658eb6f314642372de9166e8"
+    },
+    "linux-x64": {
+      "sha256": "7390a55e4ca3ffab601281e046813366f1c5728d3eecf8cac826f9374351a0d1",
+      "bytes": 46554181,
+      "manifestSha256": "737ef608e8579dcf938713362c3dbbad5dd8f8531bd05e4bec2a79477ba0c70f"
+    },
+    "win32-x64": {
+      "sha256": "90dfec2473be08f9d8978e83d8f5c8b5f45573f4ca8a2d5723f060a9f853f265",
+      "bytes": 49613856,
+      "manifestSha256": "67eb9c52c5d1132e91a3b7bffe03040d7b8ff74d9ea0d738d354bd261901e7e1"
+    }
+  }
+}
