@@ -1,0 +1,25 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
+  "name": "zesia-consult",
+  "version": "0.4.14",
+  "description": "Independent expert review for the current task, with local preparation and explicit approval.",
+  "author": {
+    "name": "ZESIA",
+    "url": "https://zesia.dev"
+  },
+  "homepage": "https://zesia.dev",
+  "repository": "https://github.com/Rowtion/zesia-skill",
+  "extensions": {
+    "com.openai": {
+      "requires_local_executor": true,
+      "interface": {
+        "displayName": "ZESIA Consult",
+        "shortDescription": "Get an independent second opinion",
+        "developerName": "ZESIA",
+        "websiteURL": "https://zesia.dev",
+        "composerIcon": "./assets/zesia.svg",
+        "logo": "./assets/zesia.svg"
+      }
+    }
+  }
+}
